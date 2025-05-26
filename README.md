@@ -25,11 +25,11 @@ This project lies in the domain of **Computer Vision for multi-class image class
 | ----------------- | ------------------------------ |
 | Dataset Source    | Fruits 360 (Kaggle/UCI)        |
 | Dataset Type      | Custom prepped, raw resolution |
-| Total Images      | \~10,000+                      |
+| Total Images      | 19852                          |
 | Number of Classes | 10                             |
 | Image Dimension   | Variable (no resizing applied) |
 
-### 📂 Dataset Split:
+### 📂 Dataset Split
 
 - **Training Set**: 70%
 - **Validation Set**: 15%
